@@ -30,3 +30,5 @@ It allows users to add, complete, and delete tasks. Tasks are saved in *local st
 
 ## ⭐ Support
 If you like this project, don’t forget to *star* ⭐ the repository!
+
+---
